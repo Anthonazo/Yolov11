@@ -1,5 +1,8 @@
 # Proyecto: Clasificación de Objetos con YOLOv11
 
+  - **Moya Ochoa Anthony Joel** con enlace a `@anthonazo`
+  - **Yanza Caceres Daniel Brian** con enlace a `@danielyanza`
+
 Este proyecto tiene como objetivo realizar la clasificación de objetos utilizando técnicas de Deep Learning, específicamente con el modelo YOLOv11 para la detección de objetos
 
 ## Estructura del Proyecto
