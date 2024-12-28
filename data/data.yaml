@@ -1,0 +1,5 @@
+train: ./train/augmented_images
+test: ./test/images
+
+nc: 7  # Número de clases (en tu caso son 6 categorías)
+names: ['Blazer', 'Blouse', 'Body', 'Dress', 'Hat', 'Hoodie', 'Pants']  # Lista de nombres de clases
